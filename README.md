@@ -1,2 +1,2 @@
-# PA1
-Repository for the PA1 subject
+# Cvika
+Repozitar s kody ze cviceni
